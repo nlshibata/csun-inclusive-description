@@ -1,8 +1,8 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: CSUN Inclusive Description Guidelines
+description: These guidelines are meant to provide guidance and clarity in the creation of inclusive descriptions for archival materials in finding aids and digital collections metadata. 
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://nlshibata.github.io/csun-inclusive-description
 
-aux_links:
+aux_links: 
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
