@@ -1,3 +1,7 @@
+---
+title: Introduction
+nav_order: 1
+---
 # 1. Introduction & Purpose
 
 This document is meant to provide guidance and clarity in the creation of inclusive descriptions for archival materials in finding aids and digital collections metadata.  It was created by the Reparative Description Working Group to better align the inclusive and reparative description efforts across the CSUN University Library.  The guidelines were influenced by many other works on inclusive and reparative description which are cited in footnotes throughout.  See the Bibliography on page [x] for a full list of resources consulted.  Finally, this work aligns with the University’s values and the Roadmap to the Future’s strategic directions to Disrupt Systemic Inequities, Enhance Community Connections, and Honor Our History and Aspire to a More Equitable Future. 
