@@ -3,3 +3,12 @@ description: These guidelines are meant to provide guidance and clarity in the c
 theme: just-the-docs
 
 url: https://nlshibata.github.io/csun-inclusive-description
+
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
