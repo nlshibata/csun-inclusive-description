@@ -9,9 +9,7 @@
 
   @include container;
 
-  @include fs-5;
-
-  @include fw-bold;
+  @include fs-6;
 
   @include mq(md) {
     padding-top: $sp-2;
