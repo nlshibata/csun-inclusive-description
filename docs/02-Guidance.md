@@ -3,6 +3,13 @@ title: General Guidance
 nav_order: 2
 ---
 ## 2. General Guidance
+{: .no_toc }
+
+## Table of Contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 ### Creator-sourced/transcribed description
 
 When transcribing directly from a source, indicate this in the record and provide context, if needed. According to the *Archives for Black Lives in Philadelphia’s Anti-Racist Description Resources*,
