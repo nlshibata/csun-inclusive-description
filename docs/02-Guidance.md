@@ -47,6 +47,8 @@ See Section 3 for specific guidance on content warnings for archival collections
 How we describe materials must support the information-seeking needs of communities being represented and/or described, not just students or academic scholars. It is also important to consider these communities as equal stakeholders in resource and collection description.[^2] Identifying, making contact, and building trust with communities takes time and planning. Although it may not always be possible to identify and collaborate with them on metadata, it is important to try to build time and resources to do this during the planning phase of a project and to compensate community members for their time, labor, and expertise. 
 
 There are various models that can be used to collaborate with communities, but here are some general tips:  
+
 ***
+
 [^1]:See page 8, Archives for Black Lives in Philadelphia Anti-Racist Description Resources [https://archivesforblacklives.wordpress.com/wp-content/uploads/2020/11/ardr_202010.pdf](https://archivesforblacklives.wordpress.com/wp-content/uploads/2020/11/ardr_202010.pdf)
 [^2]:See page 22, Reimagine Descriptive Workflows:  A Community-informed Agenda for Reparative and Inclusive Descriptive Practice [https://www.oclc.org/content/dam/research/publications/2022/oclcresearch-reimagine-descriptive-workflows-a4.pdf](https://www.oclc.org/content/dam/research/publications/2022/oclcresearch-reimagine-descriptive-workflows-a4.pdf)
