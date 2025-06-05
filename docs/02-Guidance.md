@@ -14,13 +14,7 @@ nav_order: 2
 
 When transcribing directly from a source, indicate this in the record and provide context, if needed. According to the *Archives for Black Lives in Philadelphia’s Anti-Racist Description Resources*,
 
-> Consider your audience and the potential for harm when making
-> decisions about whether to preserve problematic creator-supplied
-> language. In most cases, preserve but contextualize creator-sourced
-> original description when racism is an important context for
-> understanding records. If you choose to maintain some or all racist
-> creator-based description, draw a distinction between the
-> creator-supplied description and archivist-supplied description…[^1]
+> Consider your audience and the potential for harm when making decisions about whether to preserve problematic creator-supplied language. In most cases, preserve but contextualize creator-sourced original description when racism is an important context for understanding records. If you choose to maintain some or all racist creator-based description, draw a distinction between the creator-supplied description and archivist-supplied description…[^1]
 
 While they speak specifically to racist content, this guidance is useful when working with any challenging creator-sourced content.
 
@@ -48,5 +42,11 @@ Defining or identifying challenging content involves a lot of subjective judgmen
 
 See Section 3 for specific guidance on content warnings for archival collections and Section 4 for digital collections.
 
+### Community consultation and access
+
+How we describe materials must support the information-seeking needs of communities being represented and/or described, not just students or academic scholars. It is also important to consider these communities as equal stakeholders in resource and collection description.[^2] Identifying, making contact, and building trust with communities takes time and planning. Although it may not always be possible to identify and collaborate with them on metadata, it is important to try to build time and resources to do this during the planning phase of a project and to compensate community members for their time, labor, and expertise. 
+
+There are various models that can be used to collaborate with communities, but here are some general tips:  
 ***
 [^1]:See page 8, Archives for Black Lives in Philadelphia Anti-Racist Description Resources [https://archivesforblacklives.wordpress.com/wp-content/uploads/2020/11/ardr_202010.pdf](https://archivesforblacklives.wordpress.com/wp-content/uploads/2020/11/ardr_202010.pdf)
+[^2]:See page 22, Reimagine Descriptive Workflows:  A Community-informed Agenda for Reparative and Inclusive Descriptive Practice [https://www.oclc.org/content/dam/research/publications/2022/oclcresearch-reimagine-descriptive-workflows-a4.pdf](https://www.oclc.org/content/dam/research/publications/2022/oclcresearch-reimagine-descriptive-workflows-a4.pdf)
