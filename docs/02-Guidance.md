@@ -16,4 +16,5 @@ When transcribing directly from a source, indicate this in the record and provid
 
 While they speak specifically to racist content, this guidance is useful when working with any challenging creator-sourced content.
 
+***
 [^1]:See page 8, Archives for Black Lives in Philadelphia Anti-Racist Description Resources [https://archivesforblacklives.wordpress.com/wp-content/uploads/2020/11/ardr_202010.pdf](https://archivesforblacklives.wordpress.com/wp-content/uploads/2020/11/ardr_202010.pdf)
