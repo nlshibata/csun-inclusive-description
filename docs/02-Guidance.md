@@ -3,7 +3,7 @@ title: General Guidance
 nav_order: 2
 ---
 ## 2. General Guidance
-{: .no_toc .text-delta }
+{: .no_toc }
 
 1. TOC
 {:toc}
