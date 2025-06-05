@@ -2,8 +2,8 @@
 title: General Guidance
 nav_order: 2
 ---
-### 2. General Guidance
-***Creator-sourced/transcribed description***
+## 2. General Guidance
+###Creator-sourced/transcribed description
 
 When transcribing directly from a source, indicate this in the record and provide context, if needed. According to the *Archives for Black Lives in Philadelphia’s Anti-Racist Description Resources*,
 
