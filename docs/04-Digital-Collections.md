@@ -6,8 +6,8 @@ nav_order: 4
 
 {: .no_toc }
 
-TOC {:toc}
-
+1. TOC
+{:toc}
 ### Content warnings and disclaimers
 
 Content warnings should be added both to the collection description on the digital collection’s landing page as well as in the item record(s) that contain challenging material.  Be specific about the nature of the content.   
