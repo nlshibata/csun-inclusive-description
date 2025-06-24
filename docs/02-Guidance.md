@@ -131,14 +131,14 @@ When describing materials, it is important to give voice to those that have been
 >
 >**Ethnicity** is a social construct that defines a set of people by their shared common cultures and traditions, including by not limited to race, nationality, or religion. (ex. Jewish, Japanese, Creole)[^7]
 
-#### Spelling and capitalization
+**Spelling and capitalization**
 
 - Terms describing racial and ethnic groups are capitalized (e.g. Guatemalan, Vietnamese American).  
 - Capitalize Black when referring to race and ethnicity, but not white.  
   - While some style guides and institutions capitalize white because it is a proper noun in this context, many do not. The Associated Press, for instance, chooses not to because “white people generally do not share the same history and culture, or the experience of being discriminated against because of skin color.” The New York Times adds that they do not capitalize white in part because it “has long been capitalized by hate groups.”[^8]
 - Do not hyphenate multi word terms.  For instance, write African American, not African-American. 
 
-#### Terminology
+**Terminology**
 
 In general, identify people and communities using racial and/or ethnic terms that they use to describe themselves.  
 
