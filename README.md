@@ -2,7 +2,7 @@
 
 These guidelines are meant to provide guidance and clarity in the creation of inclusive descriptions for archival materials in finding aids and digital collections metadata. It was created by the University Library's Reparative Description Working Group to better align the inclusive and reparative description efforts across the CSUN University Library.
 
-Current version released on 7/2025
+Current version released on 7/1/2025
 
 [Jekyll]: https://jekyllrb.com
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
