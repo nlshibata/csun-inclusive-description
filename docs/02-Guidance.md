@@ -25,7 +25,7 @@ This letter published in the CSU Japanese American Digitization Project from the
 
 It was updated to include a transcription of the letter itself as well as some contextual information:
 
-> A letter sent to Reverend Wendell Miller that reads “If you are a Jap sympathizer we do not need you or your kind.” The sender’s name is illegible. “Jap” is a racist epithet that was used against Japanese Americans following the attack on Pearl Harbor. Miller and other members of his church assisted Japanese Americans en route to various internment camps.
+> A letter sent to Reverend Wendell Miller that reads “If you are a Jap sympathizer we do not need you or your kind.” The sender’s name is illegible. “Jap” is a racist epithet that was used against Japanese Americans following the attack on Pearl Harbor. Miller and other members of his church assisted Japanese Americans en route to various incarceration camps.
 
 ### Content warnings and disclaimers
 
